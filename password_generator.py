@@ -50,9 +50,9 @@ list4.extend(list(lst4))
 
 
 n1= int(input("How many upper_case letter do you want in your password:"))
-n2= int(input("how many lower_case letter do you want in your password:"))
-n3= int(input("how many digits do you want in your password:"))
-n4= int(input("how many symbols do you want in your password:"))
+n2= int(input("\nhow many lower_case letter do you want in your password:"))
+n3= int(input("\nhow many digits do you want in your password:"))
+n4= int(input("\nhow many symbols do you want in your password:"))
 
 
 n_1 = random.sample(list1, n1)
