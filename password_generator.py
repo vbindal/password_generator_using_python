@@ -65,7 +65,7 @@ passw.extend(list(n_1))
 passw.extend(list(n_2))
 passw.extend(list(n_3))
 passw.extend(list(n_4))
-print("Your password is:")
+print("\nYour password is:")
 print("".join(random.sample(passw ,n)))
 
 
